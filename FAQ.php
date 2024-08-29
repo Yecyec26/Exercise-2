@@ -40,14 +40,14 @@
 
         <section class="faq">
             <h2>Frequently Asked Questions</h2>
-            <p><strong>Q: How long will it take to get a response?</strong></p>
-            <p>A: We strive to respond to all inquiries within 24-48 hours.</p>
+            <p><strong>Q: How long does it take to get a response?</strong></p>
+            <p>A: We usually respond within 24-48 hours.</p>
 
             <p><strong>Q: Can I track my message?</strong></p>
-            <p>A: Unfortunately, we do not offer message tracking. However, you can always follow up with us if you don't hear back within the expected timeframe.</p>
+            <p>A: No, we don't offer message tracking. But you can follow up if you don’t hear back within the expected time.</p>
 
-            <p><strong>Q: What should I do if I don't receive a confirmation email?</strong></p>
-            <p>A: If you do not receive a confirmation email, please check your spam or junk folder. If you still don't see it, contact us directly at support@yourcompany.com.</p>
+            <p><strong>Q: What if I don't get a confirmation email?</strong></p>
+            <p>A: Check your spam or junk folder. If it's not there, contact us directly at Group6@maangas.com.</p>
         </section>
     </div>
 
