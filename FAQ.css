@@ -27,44 +27,44 @@ header h1 {
 header p {
     font-style: italic;
     margin: 0.5rem 0;
-    font-size: 1rem; /* Reduced font size */
+    font-size: 1rem; 
 }
 
 footer {
     background-color: #111;
     color: #f5f5f5;
     text-align: center;
-    padding: 0.75rem; /* Reduced padding */
+    padding: 0.75rem; 
     width: 100%;
     box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
-    margin-top: auto; /* Pushes footer to the bottom */
+    margin-top: auto; 
 }
 
 h2 {
-    font-size: 1.75rem; /* Reduced font size */
-    margin-bottom: 0.75rem; /* Reduced margin */
+    font-size: 1.75rem; 
+    margin-bottom: 0.75rem; 
     color: #ecf0f1;
     text-align: center;
 }
 
 .contact-box {
-    padding: 1.5rem; /* Reduced padding */
-    max-width: 700px; /* Reduced max-width */
+    padding: 1.5rem; 
+    max-width: 700px; 
     width: 100%;
     margin: 2rem auto;
-    box-sizing: border-box; /* Ensure padding does not cause overflow */
+    box-sizing: border-box; 
 }
 
-/* Section Styles */
+
 .form-section, .faq {
     background-color: #34495e;
-    padding: 1.5rem; /* Reduced padding */
+    padding: 1.5rem; 
     border-radius: 12px;
     width: 100%;
-    max-width: 600px; /* Reduced max-width */
-    margin: 0 auto 2rem auto; /* Center sections and add margin below */
+    max-width: 600px; 
+    margin: 0 auto 2rem auto;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-    box-sizing: border-box; /* Ensure padding does not cause overflow */
+    box-sizing: border-box; 
 }
 
 form {
@@ -74,8 +74,8 @@ form {
 }
 
 form label {
-    margin-top: 0.75rem; /* Reduced margin */
-    font-size: 1.1rem; /* Reduced font size */
+    margin-top: 0.75rem; 
+    font-size: 1.1rem;
     color: #ecf0f1;
 }
 
@@ -87,8 +87,8 @@ form input, form textarea {
     background-color: #2c3e50;
     color: #f5f5f5;
     width: 100%;
-    font-size: 0.9rem; /* Reduced font size */
-    box-sizing: border-box; /* Ensure padding does not cause overflow */
+    font-size: 0.9rem; 
+    box-sizing: border-box;
 }
 
 form textarea {
@@ -102,7 +102,7 @@ form button {
     border-radius: 8px;
     background-color: #1abc9c;
     color: #fff;
-    font-size: 1rem; /* Reduced font size */
+    font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
     width: 100%;
@@ -115,7 +115,7 @@ form button:hover {
 
 .message {
     margin-top: 1rem;
-    font-size: 1rem; /* Reduced font size */
+    font-size: 1rem; 
     font-weight: bold;
 }
 
@@ -128,15 +128,15 @@ form button:hover {
 }
 
 .faq h2 {
-    font-size: 1.75rem; /* Reduced font size */
-    margin: 0.5rem 0 1rem 0; /* Adjust the top margin to move h2 up slightly */
+    font-size: 1.75rem; 
+    margin: 0.5rem 0 1rem 0; 
     color: #ecf0f1;
     text-align: center;
 }
 
 .faq p {
     margin: 0.75rem 0;
-    font-size: 1.1rem; /* Reduced font size */
+    font-size: 1.1rem; 
 }
 
 .footer-link {
